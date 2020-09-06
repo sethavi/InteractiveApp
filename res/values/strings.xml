@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Next Education</string>
+    <string name="agora_app_id">d537c2d3e0014cefa7341c29ee023f73</string>
+    <string name="agora_access_token"></string>
+</resources>
